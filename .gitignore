@@ -1,0 +1,15 @@
+
+##############################
+Arquivos gerados pelo Unreal #
+##############################
+*/Intermediate
+*/Saved
+*/Build
+*/DerivedDataCache
+*/Binaries
+EscapeGame/Content/StarterContent/
+
+######################################
+# Arquivos gerados pelo VisualStudio #
+######################################
+*.VC.db
